@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -23,7 +22,6 @@ echo "にて御座候！！！<br/>";
 echo "<br/>";
 echo "<a href='form.html'>再試行</a>";
 ?>
-
 </form>
 </body>
 </html>
